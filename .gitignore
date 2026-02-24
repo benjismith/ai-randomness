@@ -1,0 +1,8 @@
+node_modules/
+dist/
+output/random-names/
+.env
+*.js
+*.js.map
+*.d.ts
+!*.config.js
